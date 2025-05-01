@@ -13,7 +13,7 @@ def home():
 # Fungsi untuk menjalankan server Flask
 def run():
     try:
-        app.run(host='0.0.0.0', port=5000)
+        app.run(host='0.0.0.0', port=8080)
     except Exception as e:
         print(f"Error: {e}")
 
