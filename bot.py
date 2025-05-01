@@ -175,5 +175,5 @@ if __name__ == "__main__":
     keep_alive()
 
 # Run the bot
-TOKEN = ("TOKEN")  # Replace with your bot's token
-bot.run(TOKEN)
+TOKEN = ("BOT_TOKEN")  # Replace with your bot's token
+bot.run(BOT_TOKEN)
